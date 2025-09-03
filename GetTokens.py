@@ -84,7 +84,7 @@ def prompt_login_firefox():
     messagebox.showinfo(
         "Login required",
         f"Please login on c.mi.com/global in firefox.\n"
-        "Close the browser and then press OK when logged in."
+        "Press OK after logging in."
     )
     root.destroy()
     
